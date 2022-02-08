@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web dev**
 
-- 💬 Ask me about **competetive programming and web dev**
+- 💬 Ask me about **competitive programming and web dev**
 
 - 📫 How to reach me **vaibhavsingh19750nit@gmail.com**
 
