@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winnerfool&" alt="winnerfool" /></p>
 
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
+<img src="https://github.com/winnerfool/winnerfool/blob/output/github-contribution-grid-snake.svg" /></p>
