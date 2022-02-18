@@ -1,17 +1,17 @@
-<br/>
+
 <div align="center">
 <img src="https://github.com/winnerfool/winnerfool/blob/main/result.gif" alt="Vaibhav Singh" />
 </div>
-<br/>
+
 
 
 <h3 align="center">Prefinal IT undergraduate at NIT raipur,Competitive programmer and Web Developer</h3>
 
-<br/>
+
 <div align="center">
 <img src="https://github.com/winnerfool/winnerfool/blob/main/dev-working_rounded.gif" />
 </div>
-<br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winnerfool&label=Profile%20views&color=0e75b6&style=flat" alt="winnerfool" /> </p>
 
