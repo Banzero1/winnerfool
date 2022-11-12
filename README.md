@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Prefinal IT undergraduate at NIT raipur,Competitive programmer and Web Developer</h3>
+<h3 align="center">Final year IT undergraduate at NIT raipur,Competitive programmer and Web Developer</h3>
 
 
 <div align="center">
